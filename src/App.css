@@ -1,0 +1,28 @@
+
+@media only screen and (max-width:800px) {
+  /* For tablets: */
+  #mid {
+    display: inline-block;
+    width: 100%;
+    padding: 0;      /* Override defaults for lists */
+    margin: 0; 
+  }
+  .right {
+    width: 100%;
+  }
+}
+@media only screen and (max-width:500px) {
+  /* For mobile phones: */
+  /* #nav{
+    height: 30em;
+  } */
+  a {
+    display: inline-block;
+    width: 100%;
+    padding: 0;      /* Override defaults for lists */
+    margin: 0; 
+  }
+  #mid{
+    border:0em;
+  }
+}

@@ -1,0 +1,48 @@
+*{
+    /* border: .5px solid gold; */
+}
+#log{
+    text-align: center;
+}
+#logscrn{
+    border-bottom: 5px solid #e67e00;
+    font-size: 50px;
+    display:inline;
+    font-family: Girassol;
+}
+#form{
+    /* margin-top:100px;
+    position: relative;
+    position: absolute; */
+    /* left: 55%; */
+    /* margin-right: -50%; */
+    /* transform: translate(-50%, -50%)  */
+}
+#form-group-1{
+    /* margin-top: 100px;
+    border: 1px solid black;
+    position: relative;
+    background: yellow;
+    position: absolute;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)  */
+}
+#one{
+    /* border: 1px solid blue; */
+}
+#form-group-2{
+    /* border: 1px solid gray;
+    position: relative;
+    background: yellow;
+    position: absolute;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)  */
+}
+#two{
+    /* border: 1px solid red; */
+}
+#form-group-3{
+text-align: center;
+}

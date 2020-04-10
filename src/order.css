@@ -1,0 +1,71 @@
+/* *{
+    border: 1px solid gold;
+}
+.contain{
+    border: 1px solid black;
+} */
+#brucecont{
+    text-align: center;
+}
+#bruce{
+    border-bottom: 5px solid #e67e00;
+    font-size: 50px;
+    display:inline;
+    font-family: Girassol;
+    text-align: center;
+}
+#nav{
+    background-color: #8B008B;
+    text-align: center;
+    height: 100px;
+}
+#nav li {
+    display: inline;
+}
+a{
+    
+}
+#left{
+    padding-right: 10%;
+}
+#mid{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+#right{
+    padding-left: 10%;
+}
+/* for the view */
+.float{
+
+}
+td{
+    border-bottom: 1px solid black;
+}
+#tdItem{
+    color: purple;
+    font-size: 25px;
+    padding-left: 2em;
+}
+#tdQty{
+    color: black;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+#tdTime{
+    color: black;
+}
+#edit{
+    color: white;
+    border-radius: 5px;
+    padding: 0px 2px 0px 2px;
+    background-color: green;
+}
+#delete{
+    color: white;
+    background-color: orange;
+    border-radius: 5px;
+    padding: 0px 2px 0px 2px;
+}

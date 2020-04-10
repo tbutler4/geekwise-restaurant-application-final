@@ -1,0 +1,25 @@
+*{
+}
+.container{
+}
+#nameS{
+    text-align: center;
+    margin-top: 20%;
+}
+#name{
+    border-bottom: 5px solid #e67e00;
+    font-size: 40px;
+    display:inline;
+    font-family: Girassol;
+}
+#please{
+    padding-top: 20px;
+    font-size: 25px;
+    text-align: center;
+}
+#go{
+    text-align: center;
+}
+#start{
+    text-align: center;
+}

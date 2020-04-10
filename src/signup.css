@@ -1,0 +1,49 @@
+*{
+    /* border: .5px solid gold; */
+}
+#screen{
+    text-align: center;
+}
+#signscrn{
+    border-bottom: 5px solid #e67e00;
+    font-size: 50px;
+    display:inline;
+    font-family: Girassol;
+}
+#form{
+    margin-top:20%;
+    position: relative;
+    position: absolute;
+    left: 52.5%;
+    margin-right: -50%;
+    transform: translate(-60%, -50%) 
+}
+#form-group-1{
+    /* margin-top: 100px;
+    border: 1px solid black;
+    position: relative;
+    background: yellow;
+    position: absolute;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)  */
+}
+#one{
+    /* border: 1px solid blue; */
+}
+#form-group-2{
+    /* border: 1px solid gray;
+    position: relative;
+    background: yellow;
+    position: absolute;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)  */
+}
+#two{
+    /* border: 1px solid red; */
+}
+#form-group-3{
+text-align: center;
+padding-top: 20px;
+}
